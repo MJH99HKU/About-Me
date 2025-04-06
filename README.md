@@ -1,5 +1,6 @@
 # About-Me
 #This is a self_introduction file, the section will be split into:  
+#Basic Information  
 #Academic performance  
 #Case competition  
 #Company visit  

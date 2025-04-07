@@ -1,6 +1,6 @@
 # About-Me
 #This is a self_introduction file, the section will be split into:  
-#[Academic performance](#Academic performance)
+#[Academic performance.md](#Academic performance.md)
 #Academic performance  
 #Case competition  
 #Company visit  
